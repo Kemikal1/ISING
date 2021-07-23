@@ -1,4 +1,4 @@
-#florentina.suter@g.unibuc.ro
+
 import numpy as np
 import matplotlib.pyplot as plt
 from numpy.random import rand
